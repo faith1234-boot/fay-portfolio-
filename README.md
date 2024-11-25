@@ -1,2 +1,1 @@
-# fay-portfolio-
-My portfolio
+# fay-portfolio
